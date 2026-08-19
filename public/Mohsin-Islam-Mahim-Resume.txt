@@ -1,0 +1,19 @@
+MOHSIN ISLAM MAHIM
+Creator • Developer • Tech Enthusiast
+
+Email: mahimg877@gmail.com
+Phone: 01531711316
+GitHub: https://github.com/freakmahim67
+Instagram: https://www.instagram.com/esdeemhm/
+
+ABOUT
+Creator and developer focused on premium responsive interfaces, modern web experiences and thoughtful motion.
+
+SKILLS
+React / JavaScript
+HTML / CSS / Tailwind CSS
+UI / UX & Motion
+Git & GitHub
+
+PORTFOLIO
+https://github.com/freakmahim67/portfolio
