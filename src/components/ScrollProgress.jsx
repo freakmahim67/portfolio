@@ -1,0 +1,2 @@
+import {useEffect,useState} from 'react';
+export default function ScrollProgress(){const [p,setP]=useState(0);useEffect(()=>{const f=()=>setP(scrollY/(document.documentElement.scrollHeight-innerHeight)*100);addEventListener('scroll',f,{passive:true});f();return()=>removeEventListener('scroll',f)},[]);return <div className="fixed top-0 left-0 right-0 z-[90] h-[2px] bg-transparent"><div className="h-full bg-gradient-to-r from-cyan-400 to-purple-500 shadow-[0_0_14px_#22d3ee]" style={{width:`${p}%`}}/></div>}
